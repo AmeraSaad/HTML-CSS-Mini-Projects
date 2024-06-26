@@ -351,3 +351,26 @@ footer {
 .icons i:hover {
   color: lightblue;
 }
+
+/* @media screen and (min-width: 576px) {
+  .about-container,
+  .loc-container ,
+  .contact-container{
+    flex-wrap: nowrap;
+  }
+}
+
+@media screen and (min-width: 768px) {
+
+}
+
+@media screen and (min-width: 992px) {
+}
+
+@media screen and (min-width: 1200px) {
+  
+}
+
+@media screen and (min-width: 1400px) {
+
+} */
